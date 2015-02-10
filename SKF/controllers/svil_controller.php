@@ -3,7 +3,7 @@ require_once '/htdocs/public/www/actselector/app/controllers/public_controller.p
 
 class SvilController extends PublicController {
 
-	var $name = 'Public'; //test commit
+	var $name = 'Public'; //test commit pippo
 	var $uses = array(
 		'ProductsPillar',
 		'ProductsLinear',
