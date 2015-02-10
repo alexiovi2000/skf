@@ -1,0 +1,1 @@
+<p><?php echo __('Please complete the form below. Mandatory fields marked <em>*</em>'); ?></p>

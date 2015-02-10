@@ -1,0 +1,2914 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-05-14 15:13+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Davide Garetto <davide@vg59.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: \app_controller.php:98
+msgid "metatag description default"
+msgstr "This tool will allow you to easily select the right actuator to fulfil your application needs.Please choose the desired product family and then, by entering few simple parameters, you will be guided in the selection. The results will be automatically updated after each input entry."
+
+#: \app_controller.php:101
+msgid "metatag keywords default"
+msgstr "Actuator Select, SKF"
+
+#: \app_controller.php:463
+#: \views\public\products_pillar.ctp:7
+msgid "nome prodotto pillar"
+msgstr "Telescopic pillar"
+
+#: \app_controller.php:465
+#: \views\public\products_pillar.ctp:11
+msgid "descrizione prodotto pillar"
+msgstr "SKF actuation systems offer a wide range of telescopic pillars. They are able to withstand high offset loads, combining a quiet, robust and powerful movement with an attractive design. The SKF telescopic pillars can satisfy your most demanding requirements."
+
+#: \app_controller.php:468
+#: \views\public\products_linear.ctp:7
+msgid "nome prodotto linear"
+msgstr "Linear Actuators"
+
+#: \app_controller.php:470
+#: \views\public\products_linear.ctp:11
+msgid "descrizione prodotto linear"
+msgstr "SKF offers the most comprehensive range of linear actuators that can be applied in almost every kind of application. With several options on load, speed, voltage, protection, SKF actuators provide design flexibility and proven reliability to any linear movement."
+
+#: \app_controller.php:473
+#: \views\public\products_rotary.ctp:7
+msgid "nome prodotto rotary"
+msgstr "Rotary actuators"
+
+#: \app_controller.php:475
+#: \views\public\products_rotary.ctp:11
+msgid "descrizione prodotto rotary"
+msgstr "SKF rotary actuators are designed to provide rotary motion. Fast or slow. Heavy or light duty. Complex or simple arrangements. You can chose from a wide variety of application areas. You will find a solution with both technical and economic advantages."
+
+#: \app_controller.php:478
+#: \views\public\products_control.ctp:6
+msgid "nome prodotto control"
+msgstr "Control units"
+
+#: \app_controller.php:480
+#: \views\public\products_control.ctp:10
+msgid "descrizione prodotto control"
+msgstr "A large number of control units are available to operate the rotary / linear actuators and telescopic pillars. The control units can have either AC or DC input and battery powered operation.  There are Control unit able to manage single or up to 6 actuators and several external operating devices."
+
+#: \config\_init.config.php:262
+msgid "Menu.title.Home"
+msgstr "« Frontend"
+
+#: \config\_init.config.php:263
+msgid "Menu.page_title.Home"
+msgstr "Home"
+
+#: \config\_init.config.php:264
+msgid "Menu.form_title.Home"
+msgstr "Home"
+
+#: \config\_init.config.php:275
+msgid "Menu.title.User.change_pwd"
+msgstr "Change password"
+
+#: \config\_init.config.php:276
+msgid "Menu.page_title.User.change_pwd"
+msgstr "Change password"
+
+#: \config\_init.config.php:277
+msgid "Menu.form_title.User.change_pwd"
+msgstr "Change password"
+
+#: \config\_init.config.php:286
+msgid "Menu.title.User.index"
+msgstr "Users"
+
+#: \config\_init.config.php:287
+msgid "Menu.page_title.User.index"
+msgstr "Users"
+
+#: \config\_init.config.php:288
+msgid "Menu.form_title.User.index"
+msgstr "Users list"
+
+#: \config\_init.config.php:297
+msgid "Menu.title.User.add"
+msgstr "Users"
+
+#: \config\_init.config.php:298
+msgid "Menu.page_title.User.add"
+msgstr "Users"
+
+#: \config\_init.config.php:299
+msgid "Menu.form_title.User.add"
+msgstr "New user"
+
+#: \config\_init.config.php:308
+msgid "Menu.title.User.edit"
+msgstr "Edit user"
+
+#: \config\_init.config.php:309
+msgid "Menu.page_title.User.edit"
+msgstr "Update data user"
+
+#: \config\_init.config.php:310
+msgid "Menu.form_title.User.edit"
+msgstr "Update user"
+
+#: \config\_init.config.php:319
+msgid "Menu.title.User.delete"
+msgstr "Delete user"
+
+#: \config\_init.config.php:320
+msgid "Menu.page_title.User.delete"
+msgstr "Delete user"
+
+#: \config\_init.config.php:321
+msgid "Menu.form_title.User.delete"
+msgstr "Delete user"
+
+#: \config\_init.config.php:332
+msgid "Menu.title.Importfile"
+msgstr "Import products"
+
+#: \config\_init.config.php:333
+msgid "Menu.page_title.Importfile"
+msgstr "Import"
+
+#: \config\_init.config.php:334
+msgid "Menu.form_title.Importfile"
+msgstr "Import file"
+
+#: \config\_init.config.php:343
+msgid "Menu.title.Importfile.pillar"
+msgstr "Telescopic pillar"
+
+#: \config\_init.config.php:344
+msgid "Menu.page_title.Importfile.pillar"
+msgstr "Import - Telescopic pillar"
+
+#: \config\_init.config.php:345
+msgid "Menu.form_title.Importfile.pillar"
+msgstr "Import - Telescopic pillar"
+
+#: \config\_init.config.php:354
+msgid "Menu.title.Importfile.linear"
+msgstr "Linear Actuators"
+
+#: \config\_init.config.php:355
+msgid "Menu.page_title.Importfile.linear"
+msgstr "Import - Linear Actuators"
+
+#: \config\_init.config.php:356
+msgid "Menu.form_title.Importfile.linear"
+msgstr "Import - Linear Actuators"
+
+#: \config\_init.config.php:365
+msgid "Menu.title.Importfile.rotary"
+msgstr "Rotary actuators"
+
+#: \config\_init.config.php:366
+msgid "Menu.page_title.Importfile.rotary"
+msgstr "Import - Rotary actuators"
+
+#: \config\_init.config.php:367
+msgid "Menu.form_title.Importfile.rotary"
+msgstr "Import - Rotary actuators"
+
+#: \config\_init.config.php:376
+msgid "Menu.title.Importfile.control"
+msgstr "Control units"
+
+#: \config\_init.config.php:377
+msgid "Menu.page_title.Importfile.control"
+msgstr "Import - Control units"
+
+#: \config\_init.config.php:378
+msgid "Menu.form_title.Importfile.control"
+msgstr "Import - Control units"
+
+#: \config\_init.config.php:387
+msgid "Menu.title.Importfile.import_result"
+msgstr "Import products"
+
+#: \config\_init.config.php:388
+msgid "Menu.page_title.Importfile.import_result"
+msgstr "Import"
+
+#: \config\_init.config.php:389
+msgid "Menu.form_title.Importfile.import_result"
+msgstr "Result import"
+
+#: \config\_init.product.php:41
+msgid "Pillar.application.Automation"
+msgstr "Automation"
+
+#: \config\_init.product.php:42
+msgid "Pillar.application.Building Automation"
+msgstr "Building Automation"
+
+#: \config\_init.product.php:43
+msgid "Pillar.application.Healthcare"
+msgstr "Healthcare"
+
+#: \config\_init.product.php:44
+msgid "Pillar.application.Medical"
+msgstr "Medical"
+
+#: \config\_init.product.php:45
+msgid "Pillar.application.Office / Home automation"
+msgstr "Office / Home automation"
+
+#: \config\_init.product.php:66
+msgid "Pillar.load.800 N"
+msgstr "800 N"
+
+#: \config\_init.product.php:67
+msgid "Pillar.load.1000 N"
+msgstr "1000 N"
+
+#: \config\_init.product.php:68
+msgid "Pillar.load.1500 N"
+msgstr "1500 N"
+
+#: \config\_init.product.php:69
+msgid "Pillar.load.1650 N"
+msgstr "1650 N"
+
+#: \config\_init.product.php:70
+msgid "Pillar.load.1800 N"
+msgstr "1800 N"
+
+#: \config\_init.product.php:71
+msgid "Pillar.load.2000 N"
+msgstr "2000 N"
+
+#: \config\_init.product.php:72
+msgid "Pillar.load.2500 N"
+msgstr "2500 N"
+
+#: \config\_init.product.php:73
+msgid "Pillar.load.3000 N"
+msgstr "3000 N"
+
+#: \config\_init.product.php:74
+msgid "Pillar.load.4000 N"
+msgstr "4000 N"
+
+#: \config\_init.product.php:95
+msgid "Pillar.bending.120"
+msgstr "120 Nm"
+
+#: \config\_init.product.php:96
+msgid "Pillar.bending.210"
+msgstr "210 Nm"
+
+#: \config\_init.product.php:97
+msgid "Pillar.bending.450"
+msgstr "450 Nm"
+
+#: \config\_init.product.php:98
+msgid "Pillar.bending.480"
+msgstr "480 Nm"
+
+#: \config\_init.product.php:99
+msgid "Pillar.bending.500"
+msgstr "500 Nm"
+
+#: \config\_init.product.php:100
+msgid "Pillar.bending.900"
+msgstr "900 Nm"
+
+#: \config\_init.product.php:101
+msgid "Pillar.bending.1000"
+msgstr "1000 Nm"
+
+#: \config\_init.product.php:102
+msgid "Pillar.bending.2100"
+msgstr "2100 Nm"
+
+#: \config\_init.product.php:103
+msgid "Pillar.bending.2800"
+msgstr "2800 Nm"
+
+#: \config\_init.product.php:126
+msgid "Pillar.speed.No motor"
+msgstr "No motor"
+
+#: \config\_init.product.php:127
+msgid "Pillar.speed.1 - 12 mm/s"
+msgstr "1 - 12 mm/s"
+
+#: \config\_init.product.php:128
+msgid "Pillar.speed.13 - 15 mm/s"
+msgstr "13 - 15 mm/s"
+
+#: \config\_init.product.php:129
+msgid "Pillar.speed.16 - 30 mm/s"
+msgstr "16 - 30 mm/s"
+
+#: \config\_init.product.php:130
+msgid "Pillar.speed.31 - 35 mm/s"
+msgstr "31 - 35 mm/s"
+
+#: \config\_init.product.php:152
+msgid "Pillar.stroke.1 - 500 mm"
+msgstr "1 - 500 mm"
+
+#: \config\_init.product.php:153
+msgid "Pillar.stroke.501 - 600 mm"
+msgstr "501 - 600 mm"
+
+#: \config\_init.product.php:154
+msgid "Pillar.stroke.601 - 700 mm"
+msgstr "601 - 700 mm"
+
+#: \config\_init.product.php:155
+msgid "Pillar.stroke.> 700 mm"
+msgstr "> 700 mm"
+
+#: \config\_init.product.php:171
+msgid "Pillar.voltage.No motor"
+msgstr "No motor"
+
+#: \config\_init.product.php:172
+msgid "Pillar.voltage.24 VDC"
+msgstr "24 VDC"
+
+#: \config\_init.product.php:173
+msgid "Pillar.voltage.120 VAC"
+msgstr "120 VAC"
+
+#: \config\_init.product.php:174
+msgid "Pillar.voltage.230 VAC"
+msgstr "230 VAC"
+
+#: \config\_init.product.php:188
+msgid "Pillar.optional.Encoder feedback"
+msgstr "Encoder feedback"
+
+#: \config\_init.product.php:189
+msgid "Pillar.optional.Potentiometer feedback"
+msgstr "Potentiometer feedback"
+
+#: \config\_init.product.php:252
+msgid "Linear.application.Automation/Handling"
+msgstr "Automation/Handling"
+
+#: \config\_init.product.php:253
+msgid "Linear.application.Building Automation"
+msgstr "Building Automation"
+
+#: \config\_init.product.php:254
+msgid "Linear.application.Food & Beverage"
+msgstr "Food & Beverage"
+
+#: \config\_init.product.php:255
+msgid "Linear.application.Healthcare"
+msgstr "Healthcare"
+
+#: \config\_init.product.php:256
+msgid "Linear.application.Medical"
+msgstr "Medical"
+
+#: \config\_init.product.php:257
+msgid "Linear.application.Off-Highway"
+msgstr "Off-Highway"
+
+#: \config\_init.product.php:258
+msgid "Linear.application.Office / Home automation"
+msgstr "Office / Home automation"
+
+#: \config\_init.product.php:259
+msgid "Linear.application.Oil & Gas"
+msgstr "Oil & Gas"
+
+#: \config\_init.product.php:260
+msgid "Linear.application.Pulp & Paper"
+msgstr "Pulp & Paper"
+
+#: \config\_init.product.php:261
+msgid "Linear.application.Solar"
+msgstr "Solar"
+
+#: \config\_init.product.php:262
+msgid "Linear.application.Steel/Heavy Industry"
+msgstr "Steel/Heavy Industry"
+
+#: \config\_init.product.php:297
+msgid "Linear.load.120 N"
+msgstr "120 N"
+
+#: \config\_init.product.php:298
+msgid "Linear.load.240 N"
+msgstr "240 N"
+
+#: \config\_init.product.php:299
+msgid "Linear.load.500 N"
+msgstr "500 N"
+
+#: \config\_init.product.php:300
+msgid "Linear.load.600 N"
+msgstr "600 N"
+
+#: \config\_init.product.php:301
+msgid "Linear.load.750 N"
+msgstr "750 N"
+
+#: \config\_init.product.php:302
+msgid "Linear.load.1000 N"
+msgstr "1000 N"
+
+#: \config\_init.product.php:303
+msgid "Linear.load.1200 N"
+msgstr "1200 N"
+
+#: \config\_init.product.php:304
+msgid "Linear.load.1500 N"
+msgstr "1500 N"
+
+#: \config\_init.product.php:305
+msgid "Linear.load.2000 N"
+msgstr "2000 N"
+
+#: \config\_init.product.php:306
+msgid "Linear.load.2500 N"
+msgstr "2500 N"
+
+#: \config\_init.product.php:307
+msgid "Linear.load.3000 N"
+msgstr "3000 N"
+
+#: \config\_init.product.php:308
+msgid "Linear.load.3500 N"
+msgstr "3500 N"
+
+#: \config\_init.product.php:309
+msgid "Linear.load.4000 N"
+msgstr "4000 N"
+
+#: \config\_init.product.php:310
+msgid "Linear.load.4500 N"
+msgstr "4500 N"
+
+#: \config\_init.product.php:311
+msgid "Linear.load.6000 N"
+msgstr "6000 N"
+
+#: \config\_init.product.php:312
+msgid "Linear.load.8000 N"
+msgstr "8000 N"
+
+#: \config\_init.product.php:313
+msgid "Linear.load.10000 N"
+msgstr "10000 N"
+
+#: \config\_init.product.php:314
+msgid "Linear.load.12000 N"
+msgstr "12000 N"
+
+#: \config\_init.product.php:315
+msgid "Linear.load.15000 N"
+msgstr "15000 N"
+
+#: \config\_init.product.php:316
+msgid "Linear.load.20000 N"
+msgstr "20000 N"
+
+#: \config\_init.product.php:317
+msgid "Linear.load.25000 N"
+msgstr "25000 N"
+
+#: \config\_init.product.php:318
+msgid "Linear.load.30000 N"
+msgstr "30000 N"
+
+#: \config\_init.product.php:319
+msgid "Linear.load.50000 N"
+msgstr "50000 N"
+
+#: \config\_init.product.php:355
+msgid "Linear.speed.1 - 5 mm/s"
+msgstr "1 - 5 mm/s"
+
+#: \config\_init.product.php:356
+msgid "Linear.speed.6 - 10 mm/s"
+msgstr "6 - 10 mm/s"
+
+#: \config\_init.product.php:357
+msgid "Linear.speed.11 - 15 mm/s"
+msgstr "11 - 15 mm/s"
+
+#: \config\_init.product.php:358
+msgid "Linear.speed.16 - 20 mm/s"
+msgstr "16 - 20 mm/s"
+
+#: \config\_init.product.php:359
+msgid "Linear.speed.21 - 30 mm/s"
+msgstr "21 - 30 mm/s"
+
+#: \config\_init.product.php:360
+msgid "Linear.speed.31 - 50 mm/s"
+msgstr "31 - 50 mm/s"
+
+#: \config\_init.product.php:361
+msgid "Linear.speed.51 - 100 mm/s"
+msgstr "51 - 100 mm/s"
+
+#: \config\_init.product.php:362
+msgid "Linear.speed.101 - 200 mm/s"
+msgstr "101 - 200 mm/s"
+
+#: \config\_init.product.php:363
+msgid "Linear.speed.201 - 500 mm/s"
+msgstr "201 - 500 mm/s"
+
+#: \config\_init.product.php:364
+msgid "Linear.speed.501 - 1000 mm/s"
+msgstr "501 - 1000 mm/s"
+
+#: \config\_init.product.php:365
+msgid "Linear.speed.> 1000 mm/s"
+msgstr "> 1000 mm/s"
+
+#: \config\_init.product.php:398
+msgid "Linear.stroke.1 - 200 mm"
+msgstr "1 - 200 mm"
+
+#: \config\_init.product.php:399
+msgid "Linear.stroke.201 - 300 mm"
+msgstr "201 - 300 mm"
+
+#: \config\_init.product.php:400
+msgid "Linear.stroke.301 - 400 mm"
+msgstr "301 - 400 mm"
+
+#: \config\_init.product.php:401
+msgid "Linear.stroke.401 - 500 mm"
+msgstr "401 - 500 mm"
+
+#: \config\_init.product.php:402
+msgid "Linear.stroke.501 - 600 mm"
+msgstr "501 - 600 mm"
+
+#: \config\_init.product.php:403
+msgid "Linear.stroke.601 - 700 mm"
+msgstr "601 - 700 mm"
+
+#: \config\_init.product.php:404
+msgid "Linear.stroke.701 - 800 mm"
+msgstr "701 - 800 mm"
+
+#: \config\_init.product.php:405
+msgid "Linear.stroke.801 - 1000 mm"
+msgstr "801 - 1000 mm"
+
+#: \config\_init.product.php:406
+msgid "Linear.stroke.> 1000 mm"
+msgstr "> 1000 mm"
+
+#: \config\_init.product.php:421
+msgid "Linear.duty.1 - 25%"
+msgstr "1 - 25%"
+
+#: \config\_init.product.php:422
+msgid "Linear.duty.26 - 70%"
+msgstr "26 - 70%"
+
+#: \config\_init.product.php:423
+msgid "Linear.duty.71 - 100%"
+msgstr "71 - 100%"
+
+#: \config\_init.product.php:443
+msgid "Linear.voltage.No motor"
+msgstr "No motor"
+
+#: \config\_init.product.php:444
+msgid "Linear.voltage.12 VDC"
+msgstr "12 VDC"
+
+#: \config\_init.product.php:445
+msgid "Linear.voltage.24 VDC"
+msgstr "24 VDC"
+
+#: \config\_init.product.php:446
+msgid "Linear.voltage.36 VDC"
+msgstr "36 VDC"
+
+#: \config\_init.product.php:447
+msgid "Linear.voltage.110 VAC"
+msgstr "110 VAC"
+
+#: \config\_init.product.php:448
+msgid "Linear.voltage.230 VAC"
+msgstr "230 VAC"
+
+#: \config\_init.product.php:449
+msgid "Linear.voltage.400 VAC"
+msgstr "400 VAC"
+
+#: \config\_init.product.php:469
+msgid "Linear.optional.Encoder feedback"
+msgstr "Encoder feedback"
+
+#: \config\_init.product.php:470
+msgid "Linear.optional.Potentiometer feedback"
+msgstr "Potentiometer feedback"
+
+#: \config\_init.product.php:471
+msgid "Linear.optional.Limit switches"
+msgstr "Limit switches"
+
+#: \config\_init.product.php:472
+msgid "Linear.optional.I-shape"
+msgstr "I-shape"
+
+#: \config\_init.product.php:473
+msgid "Linear.optional.U-shape"
+msgstr "U-shape"
+
+#: \config\_init.product.php:474
+msgid "Linear.optional.L-shape"
+msgstr "L-shape"
+
+#: \config\_init.product.php:475
+msgid "Linear.optional.Water resistant"
+msgstr "Water resistant"
+
+#: \config\_init.product.php:476
+msgid "Linear.optional.Extended temperature range"
+msgstr "Extended temperature range"
+
+#: \config\_init.product.php:523
+msgid "Rotary.application.Automation"
+msgstr "Automation"
+
+#: \config\_init.product.php:524
+msgid "Rotary.application.Automotive"
+msgstr "Automotive"
+
+#: \config\_init.product.php:525
+msgid "Rotary.application.Healthcare"
+msgstr "Healthcare"
+
+#: \config\_init.product.php:526
+msgid "Rotary.application.Oil & Gas"
+msgstr "Oil & Gas"
+
+#: \config\_init.product.php:527
+msgid "Rotary.application.Solar"
+msgstr "Solar"
+
+#: \config\_init.product.php:551
+msgid "Rotary.load.18 N"
+msgstr "18 Nm"
+
+#: \config\_init.product.php:552
+msgid "Rotary.load.19 N"
+msgstr "19 Nm"
+
+#: \config\_init.product.php:553
+msgid "Rotary.load.22 N"
+msgstr "22 Nm"
+
+#: \config\_init.product.php:554
+msgid "Rotary.load.34 N"
+msgstr "34 Nm"
+
+#: \config\_init.product.php:555
+msgid "Rotary.load.38 N"
+msgstr "38 Nm"
+
+#: \config\_init.product.php:556
+msgid "Rotary.load.40 N"
+msgstr "40 Nm"
+
+#: \config\_init.product.php:557
+msgid "Rotary.load.53 N"
+msgstr "53 Nm"
+
+#: \config\_init.product.php:558
+msgid "Rotary.load.55 N"
+msgstr "55 Nm"
+
+#: \config\_init.product.php:559
+msgid "Rotary.load.60 N"
+msgstr "60 Nm"
+
+#: \config\_init.product.php:560
+msgid "Rotary.load.70 N"
+msgstr "70 Nm"
+
+#: \config\_init.product.php:561
+msgid "Rotary.load.100 N"
+msgstr "100 Nm"
+
+#: \config\_init.product.php:562
+msgid "Rotary.load.105 N"
+msgstr "105 Nm"
+
+#: \config\_init.product.php:584
+msgid "Rotary.speed.1 - 13 deg/s"
+msgstr "1 - 13 deg/s"
+
+#: \config\_init.product.php:585
+msgid "Rotary.speed.14 - 30 deg/s"
+msgstr "14 - 30 deg/s"
+
+#: \config\_init.product.php:586
+msgid "Rotary.speed.31 - 58 deg/s"
+msgstr "31 - 58 deg/s"
+
+#: \config\_init.product.php:587
+msgid "Rotary.speed.59 - 110 deg/s"
+msgstr "59 - 110 deg/s"
+
+#: \config\_init.product.php:604
+msgid "Rotary.voltage.12 VDC"
+msgstr "12 VDC"
+
+#: \config\_init.product.php:605
+msgid "Rotary.voltage.24 VDC"
+msgstr "24 VDC"
+
+#: \config\_init.product.php:606
+msgid "Rotary.voltage.90 VDC"
+msgstr "90 VDC"
+
+#: \config\_init.product.php:607
+msgid "Rotary.voltage.120 VAC"
+msgstr "120 VAC"
+
+#: \config\_init.product.php:608
+msgid "Rotary.voltage.230 VAC"
+msgstr "230 VAC"
+
+#: \config\_init.product.php:625
+msgid "Rotary.optional.Encoder feedback"
+msgstr "Encoder feedback"
+
+#: \config\_init.product.php:626
+msgid "Rotary.optional.Mechanical endstops"
+msgstr "Mechanical endstops"
+
+#: \config\_init.product.php:627
+msgid "Rotary.optional.Internal endswitches"
+msgstr "Limit switches"
+
+#: \config\_init.product.php:628
+msgid "Rotary.optional.Extended temperature range"
+msgstr "Extended temperature range"
+
+#: \config\_init.product.php:629
+msgid "Rotary.optional.Optional handcrank"
+msgstr "Optional handcrank"
+
+#: \config\_init.product.php:674
+msgid "Control.application.Automation"
+msgstr "Automation"
+
+#: \config\_init.product.php:675
+msgid "Control.application.Building Automation"
+msgstr "Building Automation"
+
+#: \config\_init.product.php:676
+msgid "Control.application.Home / Office"
+msgstr "Home / Office"
+
+#: \config\_init.product.php:677
+msgid "Control.application.Healthcare"
+msgstr "Healthcare"
+
+#: \config\_init.product.php:678
+msgid "Control.application.Medical"
+msgstr "Medical"
+
+#: \config\_init.product.php:696
+msgid "Control.motor.1"
+msgstr "1"
+
+#: \config\_init.product.php:697
+msgid "Control.motor.2"
+msgstr "2"
+
+#: \config\_init.product.php:698
+msgid "Control.motor.3"
+msgstr "3"
+
+#: \config\_init.product.php:699
+msgid "Control.motor.4"
+msgstr "4"
+
+#: \config\_init.product.php:700
+msgid "Control.motor.5"
+msgstr "5"
+
+#: \config\_init.product.php:701
+msgid "Control.motor.6"
+msgstr "6"
+
+#: \config\_init.product.php:722
+msgid "Control.output.up to 24 VDC/ 3 A @ 10%"
+msgstr "up to 24 VDC/ 3 A @ 10%"
+
+#: \config\_init.product.php:723
+msgid "Control.output.up to 24 VDC/ 7 A @ 10%"
+msgstr "up to 24 VDC/ 7 A @ 10%"
+
+#: \config\_init.product.php:724
+msgid "Control.output.up to 24 VDC/ 9 A @ 10%"
+msgstr "up to 24 VDC/ 9 A @ 10%"
+
+#: \config\_init.product.php:725
+msgid "Control.output.up to 24 VDC/ 10 A @ 10%"
+msgstr "up to 24 VDC/ 10 A @ 10%"
+
+#: \config\_init.product.php:726
+msgid "Control.output.up to 24 VDC/ 11 A @ 10%"
+msgstr "up to 24 VDC/ 11 A @ 10%"
+
+#: \config\_init.product.php:727
+msgid "Control.output.up to 24 VDC/ 18 A @ 10%"
+msgstr "up to 24 VDC/ 18 A @ 10%"
+
+#: \config\_init.product.php:728
+msgid "Control.output.up to 24 VDC/ 30 A @ 10%"
+msgstr "up to 24 VDC/ 30 A @ 10%"
+
+#: \config\_init.product.php:729
+msgid "Control.output.up to 120 VAC/ x A"
+msgstr "up to 120 VAC/ x A"
+
+#: \config\_init.product.php:730
+msgid "Control.output.up to 230 VAC/ x A"
+msgstr "up to 230 VAC/ x A"
+
+#: \config\_init.product.php:745
+msgid "Control.input.24 VDC"
+msgstr "24 VDC"
+
+#: \config\_init.product.php:746
+msgid "Control.input.120 VAC"
+msgstr "120 VAC"
+
+#: \config\_init.product.php:747
+msgid "Control.input.230 VAC"
+msgstr "230 VAC"
+
+#: \config\_init.product.php:763
+msgid "Control.functionality.Basic Function"
+msgstr "Basic Function"
+
+#: \config\_init.product.php:764
+msgid "Control.functionality.Battery operation"
+msgstr "Battery operation"
+
+#: \config\_init.product.php:765
+msgid "Control.functionality.Potentiometer processing"
+msgstr "Potentiometer processing"
+
+#: \config\_init.product.php:766
+msgid "Control.functionality.Syncronous movement"
+msgstr "Syncronous movement"
+
+#: \controllers\importfiles_controller.php:39;234;508;716
+msgid "Upload file complete"
+msgstr "Upload file complete"
+
+#: \controllers\importfiles_controller.php:48;243;517;725
+msgid "Upload file error, please try again"
+msgstr "Upload file error, please try again"
+
+#: \controllers\importfiles_controller.php:68;263;537;745
+msgid "Uploaded data is valid"
+msgstr "Uploaded data is valid"
+
+#: \controllers\importfiles_controller.php:185;192;459;466;667;674;864;871
+msgid "Uploaded data saved"
+msgstr "Uploaded data saved"
+
+#: \controllers\importfiles_controller.php:186;460;668;865
+msgid "Record saved: %s"
+msgstr "Record saved: %s"
+
+#: \controllers\importfiles_controller.php:188;462;670;867
+msgid "Uploaded data NOT saved"
+msgstr "Uploaded data NOT saved"
+
+#: \controllers\importfiles_controller.php:195;469;677;874
+msgid "Uploaded data is NOT valid"
+msgstr "Uploaded data is NOT valid"
+
+#: \controllers\logs_controller.php:76
+msgid "Invalid Log."
+msgstr "Invalid Log."
+
+#: \controllers\public_controller.php:17
+msgid "title_for_layout_home"
+msgstr "Select product lines"
+
+#: \controllers\public_controller.php:20
+msgid "description_for_layout_home"
+msgstr "This tool will allow you to easily select the right actuator to fulfil your application needs.Please choose the desired product family and then, by entering few simple parameters, you will be guided in the selection. The results will be automatically updated after each input entry."
+
+#: \controllers\public_controller.php:24
+msgid "keywords_for_layout_home"
+msgstr "Actuator Select, SKF, Select product lines"
+
+#: \controllers\public_controller.php:33
+msgid "title_for_layout_products_pillar"
+msgstr "Telescopic pillar"
+
+#: \controllers\public_controller.php:36
+msgid "description_for_layout_products_pillar"
+msgstr "SKF actuation systems offer a wide range of telescopic pillars. They are able to withstand high offset loads, combining a quiet, robust and powerful movement with an attractive design. The SKF telescopic pillars can satisfy your most demanding requirements."
+
+#: \controllers\public_controller.php:40
+msgid "keywords_for_layout_products_pillar"
+msgstr "Actuator Select, SKF, Telescopic pillar"
+
+#: \controllers\public_controller.php:179
+msgid "title_for_layout_products_linear"
+msgstr "Linear Actuators"
+
+#: \controllers\public_controller.php:182
+msgid "description_for_layout_products_linear"
+msgstr "SKF offers the most comprehensive range of linear actuators that can be applied in almost every kind of application. With several options on load, speed, voltage, protection, SKF actuators provide design flexibility and proven reliability to any linear movement."
+
+#: \controllers\public_controller.php:186
+msgid "keywords_for_layout_products_linear"
+msgstr "Actuator Select, SKF, Linear Actuators"
+
+#: \controllers\public_controller.php:349
+msgid "title_for_layout_products_rotary"
+msgstr "Rotary actuators"
+
+#: \controllers\public_controller.php:352
+msgid "description_for_layout_products_rotary"
+msgstr "SKF rotary actuators are designed to provide rotary motion. Fast or slow. Heavy or light duty. Complex or simple arrangements. You can chose from a wide variety of application areas. You will find a solution with both technical and economic advantages."
+
+#: \controllers\public_controller.php:356
+msgid "keywords_for_layout_products_rotary"
+msgstr "Actuator Select, SKF, Rotary actuators"
+
+#: \controllers\public_controller.php:468
+msgid "title_for_layout_products_control"
+msgstr "Control units"
+
+#: \controllers\public_controller.php:471
+msgid "description_for_layout_products_control"
+msgstr "A large number of control units are available to operate the rotary / linear actuators and telescopic pillars. The control units can have either AC or DC input and battery powered operation. There are Control unit able to manage single or up to 6 actuators and several external operating devices."
+
+#: \controllers\public_controller.php:475
+msgid "keywords_for_layout_products_control"
+msgstr "Actuator Select, SKF, Control units"
+
+#: \controllers\users_controller.php:326;822;983
+msgid "The User has been saved"
+msgstr "The User has been saved"
+
+#: \controllers\users_controller.php:336;833;1067
+msgid "The User could not be saved. Please, try again."
+msgstr "The User could not be saved. Please, try again."
+
+#: \controllers\users_controller.php:452
+msgid "titolo pagina richiedi password"
+msgstr "Richiedi nuova passoword"
+
+#: \controllers\users_controller.php:453
+msgid "titolo form richiedi password"
+msgstr "Richiedi una nuova passoword"
+
+#: \controllers\users_controller.php:456
+msgid "title_for_layout_richiedi_password"
+msgstr "Non ricordi la password ? richiedi nuova passowrd"
+
+#: \controllers\users_controller.php:459
+msgid "description_for_layout_richiedi_password"
+msgstr "Hai smarrito la tua password, richiedi una nuova password, ti verra inviata un e-mail con la nuova password"
+
+#: \controllers\users_controller.php:463
+msgid "keywords_for_layout_richiedi_password"
+msgstr "keywords_for_layout_richiedi_password"
+
+#: \controllers\users_controller.php:555
+msgid "La nuova password è stata inviata"
+msgstr "The new password has been send."
+
+#: \controllers\users_controller.php:560
+msgid "Errore invio mail forgot_password"
+msgstr "Error send password."
+
+#: \controllers\users_controller.php:560
+msgid "Registration send mail error"
+msgstr "Registration send mail error"
+
+#: \controllers\users_controller.php:782
+msgid "Invalid add User (only backend user)"
+msgstr "Invalid add User (only backend user)"
+
+#: \controllers\users_controller.php:859
+msgid "Invalid User"
+msgstr "Invalid User"
+
+#: \controllers\users_controller.php:1046
+msgid "mail notifica inviata"
+msgstr "Notify email send"
+
+#: \controllers\users_controller.php:1048
+msgid "errore: mail notifica non inviata"
+msgstr "Error: Notify email send"
+
+#: \controllers\users_controller.php:1080
+msgid "Not enabled to admin the selected user"
+msgstr "Not enabled to admin the selected user"
+
+#: \controllers\users_controller.php:1107
+msgid "Invalid id for User"
+msgstr "Invalid id for User"
+
+#: \controllers\users_controller.php:1122;1136
+msgid "Not enabled to delete the selected user"
+msgstr "Not enabled to delete the selected user"
+
+#: \controllers\users_controller.php:1127
+msgid "User deleted"
+msgstr "User deleted"
+
+#: \controllers\users_controller.php:1129
+msgid "User NOT deleted (record not exist)"
+msgstr "User NOT deleted (record not exist)"
+
+#: \controllers\users_controller.php:1247
+msgid "old password non corrisponde"
+msgstr "Old password don't match"
+
+#: \controllers\users_controller.php:1257
+msgid "nuova password salvata"
+msgstr "New password save"
+
+#: \controllers\users_controller.php:1265
+msgid "password non salvata"
+msgstr "Password not saved"
+
+#: \views\elements\admin\form_field_required.ctp:1
+msgid "Please complete the form below. Mandatory fields marked <em>*</em>"
+msgstr "Please complete the form below. Mandatory fields marked <em>*</em>"
+
+#: \views\elements\admin\paging_up.ctp:5
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+
+#: \views\elements\admin\paging_up.ctp:11
+msgid "first"
+msgstr "First"
+
+#: \views\elements\admin\paging_up.ctp:12
+msgid "previous"
+msgstr "Previous"
+
+#: \views\elements\admin\paging_up.ctp:14
+msgid "next"
+msgstr "Next"
+
+#: \views\elements\admin\paging_up.ctp:15
+msgid "last"
+msgstr "Last"
+
+#: \views\elements\admin\spinner.ctp:5
+msgid "Caricamento"
+msgstr "Loading"
+
+#: \views\elements\admin\user_logged.ctp:3
+msgid "Welcome "
+msgstr "Welcome,"
+
+#: \views\elements\admin\user_logged.ctp:4
+msgid "Logout"
+msgstr "Logout"
+
+#: \views\elements\admin\user_logged.ctp:6
+msgid "Last login"
+msgstr "Last login"
+
+#: \views\elements\public\_navbar.ctp:14;14
+msgid "link.home"
+msgstr "Home"
+
+#: \views\elements\public\_navbar.ctp:107;107
+msgid "link.profile"
+msgstr "Profilo"
+
+#: \views\elements\public\_navbar.ctp:110;110
+msgid "link.admin"
+msgstr "Amministrazione"
+
+#: \views\elements\public\_navbar.ctp:117;117;126;126
+msgid "link.logout"
+msgstr "Logout"
+
+#: \views\elements\public\_navbar.ctp:121;121
+msgid "link.administration"
+msgstr "Administration"
+
+#: \views\elements\public\spinner.ctp:5
+msgid "Loading ..."
+msgstr "Loading …"
+
+#: \views\errors\missing_action.ctp:4
+#: \views\errors\missing_controller.ctp:4
+msgid "Pagina non trovata"
+msgstr "Page not found"
+
+#: \views\errors\missing_action.ctp:8
+#: \views\errors\missing_controller.ctp:8
+msgid "La pagina cercata non è più disponibile"
+msgstr "Page not found"
+
+#: \views\helpers\my_form.php:366
+msgid "From:"
+msgstr "Da"
+
+#: \views\helpers\my_form.php:392
+msgid "To:"
+msgstr "A"
+
+#: \views\helpers\my_form.php:563
+msgid "Yes"
+msgstr "Yes"
+
+#: \views\helpers\my_form.php:563
+msgid "No"
+msgstr "No"
+
+#: \views\importfiles\_file_upload_form.ctp:27;43
+#: \views\users\admin_form.ctp:27;122
+msgid "Save"
+msgstr "Update"
+
+#: \views\layouts\admin.ctp:24
+msgid "sito skf actuator selector"
+msgstr "SKF - ACTUATOR SELECT"
+
+#: \views\layouts\admin.ctp:24
+msgid "amministrazione"
+msgstr "Administrator"
+
+#: \views\layouts\error.ctp:12;18;19
+#: \views\layouts\public.ctp:6;14;15
+msgid "skf actuator selector"
+msgstr "SKF - ACTUATOR SELECT :: "
+
+#: \views\layouts\public.ctp:129
+msgid "The content of this selection tool is a compilation of information published by SKF Actuation System. Every care has been taken to ensure the accuracy of the compilation, but no liability can be accepted for any loss or damage whether direct, indirect or consequential arising out of the use of information contained herein."
+msgstr "The content of this selection tool is a compilation of information published by SKF Actuation System. Every care has been taken to ensure the accuracy of the compilation, but no liability can be accepted for any loss or damage whether direct, indirect or consequential arising out of the use of information contained herein."
+
+#: \views\public\home.ctp:2
+msgid "title application home"
+msgstr "Actuator Select"
+
+#: \views\public\home.ctp:3
+msgid "description application home"
+msgstr "This tool will allow you to easily select the right actuator to fulfil your application needs.Please choose the desired product family and then, by entering few simple parameters, you will be guided in the selection. The results will be automatically updated after each input entry."
+
+#: \views\public\products_control.ctp:20
+#: \views\public\products_linear.ctp:21
+#: \views\public\products_pillar.ctp:21
+#: \views\public\products_rotary.ctp:21
+msgid "note search product"
+msgstr "The number of stars (<span class=\"startnote\">&nbsp;</span>) shows the suitability of the product related to the selected application."
+
+#: \views\public\products_control_list.ctp:2
+#: \views\public\products_linear_list.ctp:2
+#: \views\public\products_pillar_list.ctp:2
+#: \views\public\products_rotary_list.ctp:2
+msgid "box search title"
+msgstr "Select features"
+
+#: \views\public\products_control_list.ctp:6;6;9;9;12;12;15;15
+#: \views\public\products_linear_list.ctp:6;6;9;9;12;12;15;15;18;18;24;24
+#: \views\public\products_pillar_list.ctp:6;6;9;9;12;12;15;15;18;18;24;24
+#: \views\public\products_rotary_list.ctp:6;6;9;9;12;12;18;18
+msgid "help"
+msgstr "help"
+
+#: \views\public\products_control_list.ctp:7
+msgid "Control.Product.motor"
+msgstr "N. max actuators"
+
+#: \views\public\products_control_list.ctp:7;10;13;16;18
+#: \views\public\products_linear_list.ctp:7;10;13;16;19;22
+#: \views\public\products_pillar_list.ctp:7;10;13;16;19;21;25
+#: \views\public\products_rotary_list.ctp:7;10;13;15;19
+msgid "all"
+msgstr "all"
+
+#: \views\public\products_control_list.ctp:10
+msgid "Control.Product.output"
+msgstr "Output V/A"
+
+#: \views\public\products_control_list.ctp:13
+msgid "Control.Product.input"
+msgstr "Input voltage"
+
+#: \views\public\products_control_list.ctp:16
+msgid "Control.Product.functionality"
+msgstr "Functionality"
+
+#: \views\public\products_control_list.ctp:18
+msgid "Control.Product.application"
+msgstr "Application"
+
+#: \views\public\products_control_list.ctp:20
+#: \views\public\products_linear_list.ctp:30
+#: \views\public\products_pillar_list.ctp:31
+#: \views\public\products_rotary_list.ctp:24
+msgid "Reset form"
+msgstr "Reset filter"
+
+#: \views\public\products_control_list.ctp:35
+msgid "Control.Product.motor.help"
+msgstr "is the maximum number of actuators that can be simultaneously connected and operated with the control unit."
+
+#: \views\public\products_control_list.ctp:36
+msgid "Control.Product.output.help"
+msgstr "is the maximum voltage and current output that the control unit is able to provide. It's used to define the control unit overall output power."
+
+#: \views\public\products_control_list.ctp:37
+msgid "Control.Product.input.help"
+msgstr "is nominal voltage that has to be supplied to the control unit."
+
+#: \views\public\products_control_list.ctp:38
+msgid "Control.Product.functionality.help"
+msgstr "is the type of function that the control unit is able to provide in operation. Each control unit has his own features and capabilities, which go from basic on/off function to synchronous movement of the actuators."
+
+#: \views\public\products_control_list.ctp:54
+#: \views\public\products_linear_list.ctp:62
+#: \views\public\products_pillar_list.ctp:64
+#: \views\public\products_rotary_list.ctp:55
+msgid "tot products"
+msgstr "count products to"
+
+#: \views\public\products_control_list.ctp:112
+#: \views\public\products_linear_list.ctp:145
+#: \views\public\products_pillar_list.ctp:122
+#: \views\public\products_rotary_list.ctp:113
+msgid "view product detail"
+msgstr "product details"
+
+#: \views\public\products_control_list.ctp:122
+#: \views\public\products_linear_list.ctp:155
+#: \views\public\products_pillar_list.ctp:132
+#: \views\public\products_rotary_list.ctp:123
+msgid "no product available"
+msgstr "no product available"
+
+#: \views\public\products_linear_list.ctp:7
+msgid "Linear.Product.load"
+msgstr "Max rated load"
+
+#: \views\public\products_linear_list.ctp:10
+msgid "Linear.Product.speed"
+msgstr "Max speed at full load"
+
+#: \views\public\products_linear_list.ctp:13
+msgid "Linear.Product.stroke"
+msgstr "Stroke"
+
+#: \views\public\products_linear_list.ctp:16
+msgid "Linear.Product.duty"
+msgstr "Duty Cycle"
+
+#: \views\public\products_linear_list.ctp:19
+msgid "Linear.Product.voltage"
+msgstr "Supply voltage"
+
+#: \views\public\products_linear_list.ctp:22
+msgid "Linear.Product.application"
+msgstr "Application"
+
+#: \views\public\products_linear_list.ctp:25
+msgid "Linear.Product.optional"
+msgstr "Optionals"
+
+#: \views\public\products_linear_list.ctp:26
+msgid "Send options"
+msgstr "Send options"
+
+#: \views\public\products_linear_list.ctp:43
+msgid "Linear.Product.load.help"
+msgstr "is the maximum load that the actuator has to push/pull in the application."
+
+#: \views\public\products_linear_list.ctp:44
+msgid "Linear.Product.speed.help"
+msgstr "is the maximum speed that the actuator should reach when is pushing/pulling at full load."
+
+#: \views\public\products_linear_list.ctp:45
+msgid "Linear.Product.stroke.help"
+msgstr "is the length at which the actuator will extend, from fully retracted to fully extended."
+
+#: \views\public\products_linear_list.ctp:46
+msgid "Linear.Product.duty.help"
+msgstr "Is the maximum period during which the actuator is continuosly operating. The duty cycle expresses how long an actuator can handle non-stop operation before it over-heats or is otherwise damaged. It is calculated as<br /><img src='/actselector/app/webroot/img/help_inline_LinearProductduty.jpg' /><br />where<br />N      = running period under load<br />R      = rest period<br />N+R  = total cycle time."
+
+#: \views\public\products_linear_list.ctp:47
+msgid "Linear.Product.voltage.help"
+msgstr "is nominal voltage that has to be supplied to the actuator."
+
+#: \views\public\products_linear_list.ctp:48
+msgid "Linear.Product.optional.help"
+msgstr "<b>Encoder feedback</b><br />is a digital feedback device that determines the relative position of the actuator. Two Hall-effect sensors detect the changing magnetic field created by a rotating magnet and then provide corresponding output pulses to a control unit as position feedback.<br /><br /><b>Potentiometer feedback</b><br />is an analogue feedback device that determines the absolute position of the actuator with unique value in each position. It is a variable resistance that can be read and feed into a control unit as position feedback.<br /><br /><b>Limit switches</b><br />their purpose is to limit actuator motion or travel in a particular direction. When activated, the switch opens or closes an electrical contact. When the contact is closed, current will flow through the switch; when the contact is open, no current will flow through the switch.  These devices prevent actuators from running into the mechanical ends and may allow specific adjustment of stroke length.<br /><br /><b>L-U-I shape</b><br />Is the actuator design that is determined by the relative position of the motor axis in respect to the linear part axis.<br /><br /> <img src='/actselector/app/webroot/img/help_inline_LinearProductoptional.jpg' /><br /><br /><b>Water resistant</b>expresses the actuator protection grade against ingress of dust and water. This feature is directly related to the Ingress Protection (IP) grade of the actuator. When selected, the filter shows actuators that have an IP grade equal or higher than 44.<br /><br /><b>Extended temperature range</b>expresses the actuator capability of working at extreme temperatures. When selected, the filter shows actuators that have an operating temperature range below 0&deg;C."
+
+#: \views\public\products_pillar_list.ctp:7
+msgid "Pillar.Product.load"
+msgstr "Max rated load"
+
+#: \views\public\products_pillar_list.ctp:10
+msgid "Pillar.Product.bending"
+msgstr "Max bending load"
+
+#: \views\public\products_pillar_list.ctp:13
+msgid "Pillar.Product.speed"
+msgstr "Max speed at full load"
+
+#: \views\public\products_pillar_list.ctp:16
+msgid "Pillar.Product.stroke"
+msgstr "Stroke"
+
+#: \views\public\products_pillar_list.ctp:19
+msgid "Pillar.Product.voltage"
+msgstr "Supply voltage"
+
+#: \views\public\products_pillar_list.ctp:21
+msgid "Pillar.Product.application"
+msgstr "Application"
+
+#: \views\public\products_pillar_list.ctp:25
+msgid "Pillar.Product.optional"
+msgstr "Optionals"
+
+#: \views\public\products_pillar_list.ctp:45
+msgid "Pillar.Product.load.help"
+msgstr "is the maximum load that the pillar has to push/pull in the application."
+
+#: \views\public\products_pillar_list.ctp:46
+msgid "Pillar.Product.bending.help"
+msgstr "is the maximum moment that the pillar should withstand in the application."
+
+#: \views\public\products_pillar_list.ctp:47
+msgid "Pillar.Product.speed.help"
+msgstr "is the maximum speed that the pillar should reach when is pushing/pulling at full load."
+
+#: \views\public\products_pillar_list.ctp:48
+msgid "Pillar.Product.stroke.help"
+msgstr "is the length at which the pillar will extend, from fully retracted to fully extended."
+
+#: \views\public\products_pillar_list.ctp:49
+msgid "Pillar.Product.voltage.help"
+msgstr "is nominal voltage that has to be supplied to the pillar."
+
+#: \views\public\products_pillar_list.ctp:50
+msgid "Pillar.Product.optional.help"
+msgstr "<b>Encoder</b><br />is a digital feedback device that determines the relative position of the pillar. Two Hall-effect sensors detect the changing magnetic field created by a rotating magnet and then provide corresponding output pulses to a control unit as position feedback.<br /><br /><b>Potentiometer</b><br />is an analogue feedback device that determines the absolute position of the pillar with unique value in each position. It is a variable resistance that can be read and feed into a control unit as position feedback."
+
+#: \views\public\products_rotary_list.ctp:7
+msgid "Rotary.Product.load"
+msgstr "Max output torque"
+
+#: \views\public\products_rotary_list.ctp:10
+msgid "Rotary.Product.speed"
+msgstr "Max speed at full load"
+
+#: \views\public\products_rotary_list.ctp:13
+msgid "Rotary.Product.voltage"
+msgstr "Supply voltage"
+
+#: \views\public\products_rotary_list.ctp:15
+msgid "Rotary.Product.application"
+msgstr "Application"
+
+#: \views\public\products_rotary_list.ctp:19
+msgid "Rotary.Product.optional"
+msgstr "Optionals"
+
+#: \views\public\products_rotary_list.ctp:38
+msgid "Rotary.Product.load.help"
+msgstr "is the maximum torque that the rotary actuator has provide in the application."
+
+#: \views\public\products_rotary_list.ctp:39
+msgid "Rotary.Product.speed.help"
+msgstr "is the maximum speed that the rotary actuator should reach when is rotating at full load."
+
+#: \views\public\products_rotary_list.ctp:40
+msgid "Rotary.Product.voltage.help"
+msgstr "is nominal voltage that has to be supplied to the rotary actuator."
+
+#: \views\public\products_rotary_list.ctp:41
+msgid "Rotary.Product.optional.help"
+msgstr "<b>Encoder feedback</b><br />is a digital feedback device that determines the relative position of the actuator. Two Hall-effect sensors detect the changing magnetic field created by a rotating magnet and then provide corresponding output pulses to a control unit as position feedback.<br /><br /><b>Limit switches</b><br />their purpose is to limit actuator motion or travel in a particular direction. When activated, the switch opens or closes an electrical contact. When the contact is closed, current will flow through the switch; when the contact is open, no current will flow through the switch.  These devices prevent actuators from running into the mechanical ends and may allow specific adjustment of stroke length.<br /><br /><b>Extended temperature range</b><br />expresses the actuator capability of working at extreme temperatures. When selected, the filter shows actuators that have an operating temperature range below 0&deg;C.<br /><br /><b>Optional Handcranck</b><br />is an external shaft that allows to manually activate the actuator in case of power failure."
+
+#: \views\users\admin_form.ctp:28;123
+msgid "Back"
+msgstr "Back"
+
+#: \views\users\admin_form.ctp:45;76
+#: \views\users\admin_paginate.ctp:36;86
+msgid "User.firstname"
+msgstr "Name"
+
+#: \views\users\admin_form.ctp:46;77
+#: \views\users\admin_paginate.ctp:37;87
+msgid "User.lastname"
+msgstr "Surname"
+
+#: \views\users\admin_form.ctp:47;89
+#: \views\users\admin_paginate.ctp:38;89
+msgid "User.email"
+msgstr "Email"
+
+#: \views\users\admin_form.ctp:49;92
+msgid "User.username"
+msgstr "Username"
+
+#: \views\users\admin_form.ctp:51;95
+msgid "User.new_password"
+msgstr "New Password"
+
+#: \views\users\admin_form.ctp:53;97
+msgid "User.new_password_add"
+msgstr "Password"
+
+#: \views\users\admin_form.ctp:55;99
+msgid "User.confirm_password"
+msgstr "Retype password"
+
+#: \views\users\admin_form.ctp:59;61
+#: \views\users\admin_paginate.ctp:43
+msgid "User.userrole_id"
+msgstr "Type of users"
+
+#: \views\users\admin_form.ctp:61;62;106
+msgid "select option ..."
+msgstr "Select option …"
+
+#: \views\users\admin_form.ctp:62;106
+#: \views\users\admin_paginate.ctp:47;93
+msgid "User.userstatus_id"
+msgstr "Status"
+
+#: \views\users\admin_form.ctp:66;109
+#: \views\users\admin_paginate.ctp:39;90
+msgid "User.lastlogin"
+msgstr "Last login"
+
+#: \views\users\admin_form.ctp:69;114
+msgid "User.note"
+msgstr "Note"
+
+#: \views\users\admin_form.ctp:78
+#: \views\users\admin_paginate.ctp:85
+msgid "User.company"
+msgstr "Company"
+
+#: \views\users\admin_form.ctp:79
+msgid "User.address"
+msgstr "Address"
+
+#: \views\users\admin_form.ctp:80
+#: \views\users\admin_paginate.ctp:88
+msgid "User.city"
+msgstr "City"
+
+#: \views\users\admin_form.ctp:81
+msgid "User.zipcode"
+msgstr "Zip code"
+
+#: \views\users\admin_form.ctp:86
+msgid "User.phonenumber"
+msgstr "Phone number"
+
+#: \views\users\admin_form.ctp:90
+msgid "User.professione"
+msgstr "Occupation"
+
+#: \views\users\admin_form.ctp:112
+msgid "User.mailinglist"
+msgstr "Mailinglist"
+
+#: \views\users\admin_paginate.ctp:11;345
+msgid "Add"
+msgstr "New"
+
+#: \views\users\admin_paginate.ctp:22
+msgid "Export"
+msgstr "Export"
+
+#: \views\users\admin_paginate.ctp:91
+msgid "User.admin_confirmed"
+msgstr "Confirmed"
+
+#: \views\users\admin_paginate.ctp:105
+msgid "Reset Filters"
+msgstr "Delete filter"
+
+#: \views\users\admin_paginate.ctp:207
+msgid "Filter"
+msgstr "Search"
+
+#: \views\users\admin_paginate.ctp:305;305;305;307
+msgid "published"
+msgstr "published"
+
+#: \views\users\admin_paginate.ctp:307;307
+msgid "unpublished"
+msgstr "unpublished"
+
+#: \views\users\admin_paginate.ctp:323
+msgid "Edit"
+msgstr "Update"
+
+#: \views\users\admin_paginate.ctp:329
+msgid "Delete"
+msgstr "Delete"
+
+#: \views\users\admin_paginate.ctp:329
+msgid "Are you sure you want to delete # %s?"
+msgstr "Are you sure you want to delete # %s?"
+
+#: \views\users\login.ctp:7
+msgid "Login"
+msgstr "Login"
+
+#: \views\users\login.ctp:17
+msgid "Login failed. Invalid username or password."
+msgstr "Login fallito, username o password errate !!"
+
+#: \views\users\login.ctp:41
+msgid "Username"
+msgstr "Username"
+
+#: \views\users\login.ctp:42
+msgid "Password"
+msgstr "Password"
+
+#: \views\users\login.ctp:44
+msgid "Remember me"
+msgstr "Remember me"
+
+#: \webroot\test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr "Debug setting does not allow access to this url."
+
+#~ msgid "User.old_password"
+#~ msgstr "Last password"
+
+#~ msgid "User.provincia"
+#~ msgstr "Provincia"
+
+#~ msgid "User.nazione"
+#~ msgstr "Nazione"
+
+#~ msgid "User.faxnumber"
+#~ msgstr "Fax"
+
+#~ msgid "Seleziona la professione"
+#~ msgstr "Select"
+
+#~ msgid "text disclaimer privacy"
+#~ msgstr ""
+#~ "Dichiaro di aver letto l'Informativa sulla Privacy e di acconsentire al "
+#~ "trattamento dei miei dati personali necessario per usufruire dei servizi  "
+#~ "di www.http://www.notaipiniestucchi.it/ ai sensi del Dlgs 196/2003. "
+#~ "Dichiaro inoltre di aver letto il documento Termini e condizioni d'uso e "
+#~ "di accettarne il contenuto<br /><br />"
+
+#~ msgid "text disclaimer mailinglist"
+#~ msgstr "text disclaimer"
+
+#~ msgid "Provera avatar"
+#~ msgstr "Avatar"
+
+#~ msgid "Richiedi password"
+#~ msgstr "Richiedi nuova passowrd"
+
+#~ msgid "Send request"
+#~ msgstr "Invia richiesta nuova password"
+
+#, fuzzy
+#~ msgid "Linear.Product.application.help"
+#~ msgstr "Application"
+
+#~ msgid "utente sito registrato correttamente"
+#~ msgstr ""
+#~ "Utente Registrato correttamente, riceverai una E-mail per attivare il tuo "
+#~ "account"
+
+#~ msgid "Complimenti, ora sei registrato al sito Provera"
+#~ msgstr ""
+#~ "Complimenti, ora sei registrato al sito http://www.notaipiniestucchi.it/"
+
+#, fuzzy
+#~ msgid "800 N"
+#~ msgstr "800 N"
+
+#, fuzzy
+#~ msgid "1000 N"
+#~ msgstr "1000 Nm"
+
+#, fuzzy
+#~ msgid "1500 N"
+#~ msgstr "1500 N"
+
+#, fuzzy
+#~ msgid "1650 N"
+#~ msgstr "1650 N"
+
+#, fuzzy
+#~ msgid "1800 N"
+#~ msgstr "1800 N"
+
+#, fuzzy
+#~ msgid "2000 N"
+#~ msgstr "2000 N"
+
+#, fuzzy
+#~ msgid "2500 N"
+#~ msgstr "2500 N"
+
+#, fuzzy
+#~ msgid "3000 N"
+#~ msgstr "3000 N"
+
+#, fuzzy
+#~ msgid "4000 N"
+#~ msgstr "4000 N"
+
+#~ msgid "120"
+#~ msgstr "120 Nm"
+
+#~ msgid "210"
+#~ msgstr "210 Nm"
+
+#~ msgid "450"
+#~ msgstr "450 Nm"
+
+#~ msgid "480"
+#~ msgstr "480 Nm"
+
+#~ msgid "500"
+#~ msgstr "500 Nm"
+
+#~ msgid "900"
+#~ msgstr "900 Nm"
+
+#~ msgid "1000"
+#~ msgstr "1000 Nm"
+
+#~ msgid "2100"
+#~ msgstr "2100 Nm"
+
+#~ msgid "2800"
+#~ msgstr "2800 Nm"
+
+#~ msgid "No motor"
+#~ msgstr "No motor"
+
+#, fuzzy
+#~ msgid "120 N"
+#~ msgstr "120 Nm"
+
+#, fuzzy
+#~ msgid "240 N"
+#~ msgstr "240 Nm"
+
+#, fuzzy
+#~ msgid "500 N"
+#~ msgstr "500 Nm"
+
+#, fuzzy
+#~ msgid "600 N"
+#~ msgstr "600 Nm"
+
+#, fuzzy
+#~ msgid "750 N"
+#~ msgstr "750 Nm"
+
+#, fuzzy
+#~ msgid "1200 N"
+#~ msgstr "1200 Nm"
+
+#, fuzzy
+#~ msgid "3500 N"
+#~ msgstr "3500 Nm"
+
+#, fuzzy
+#~ msgid "4500 N"
+#~ msgstr "4500 Nm"
+
+#, fuzzy
+#~ msgid "6000 N"
+#~ msgstr "6000 Nm"
+
+#, fuzzy
+#~ msgid "8000 N"
+#~ msgstr "8000 Nm"
+
+#, fuzzy
+#~ msgid "10000 N"
+#~ msgstr "10000 Nm"
+
+#, fuzzy
+#~ msgid "12000 N"
+#~ msgstr "12000 Nm"
+
+#, fuzzy
+#~ msgid "15000 N"
+#~ msgstr "15000 Nm"
+
+#, fuzzy
+#~ msgid "20000 N"
+#~ msgstr "20000 Nm"
+
+#, fuzzy
+#~ msgid "25000 N"
+#~ msgstr "25000 Nm"
+
+#, fuzzy
+#~ msgid "30000 N"
+#~ msgstr "30000 Nm"
+
+#, fuzzy
+#~ msgid "50000 N"
+#~ msgstr "50000 Nm"
+
+#~ msgid "18 N"
+#~ msgstr "18 Nm"
+
+#~ msgid "19 N"
+#~ msgstr "19 Nm"
+
+#~ msgid "22 N"
+#~ msgstr "22 Nm"
+
+#~ msgid "34 N"
+#~ msgstr "34 Nm"
+
+#~ msgid "38 N"
+#~ msgstr "38 Nm"
+
+#~ msgid "40 N"
+#~ msgstr "40 Nm"
+
+#~ msgid "53 N"
+#~ msgstr "53 Nm"
+
+#~ msgid "55 N"
+#~ msgstr "55 Nm"
+
+#~ msgid "60 N"
+#~ msgstr "60 Nm"
+
+#~ msgid "70 N"
+#~ msgstr "70 Nm"
+
+#~ msgid "100 N"
+#~ msgstr "100 Nm"
+
+#~ msgid "105 N"
+#~ msgstr "105 Nm"
+
+#~ msgid "The Content has been saved"
+#~ msgstr "Il contenuto è stato salvato"
+
+#~ msgid "The Contentfamily has been saved"
+#~ msgstr "Modifica Salvata"
+
+#~ msgid "Content deleted"
+#~ msgstr "Scheda cancellata"
+
+#~ msgid "Invalid Link"
+#~ msgstr "Formato linknon valido"
+
+#~ msgid "The Link has been saved"
+#~ msgstr "Il link è stato salvato"
+
+#~ msgid "Link deleted"
+#~ msgstr "Link eliminato"
+
+#~ msgid "Content.contentcategory_id"
+#~ msgstr "Categoria"
+
+#~ msgid "Content.view_order"
+#~ msgstr "Ordinamento"
+
+#~ msgid "Content.public"
+#~ msgstr "Pubblico"
+
+#~ msgid "Content.title"
+#~ msgstr "Nome"
+
+#~ msgid "Content.description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Contentcategory.contentfamily_id"
+#~ msgstr "Famiglia"
+
+#~ msgid "Contentcategory.view_order"
+#~ msgstr "Ordinamento"
+
+#~ msgid "Contentcategory.name"
+#~ msgstr "Categoria"
+
+#~ msgid "Contentcategory.description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Contentcategory.related_links"
+#~ msgstr "Link associati"
+
+#~ msgid "Contentfamily.name"
+#~ msgstr "Nome"
+
+#~ msgid "Contentfamily.description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Contentfamily.view_order"
+#~ msgstr "Ordine di visualizzazione"
+
+#~ msgid "Content.video_code"
+#~ msgstr "Codice embedded video"
+
+#~ msgid "AttachfileImage.delete_file"
+#~ msgstr "Elimina Immagine Allegata"
+
+#~ msgid "AttachfileImage.file_name"
+#~ msgstr "Immagine Allegata"
+
+#~ msgid "AttachfileDoc.file_title"
+#~ msgstr "Titolo Scheda allegata"
+
+#~ msgid "AttachfileDoc.file_name"
+#~ msgstr "Scheda allegata"
+
+#~ msgid "AttachfileDoc.delete_file"
+#~ msgstr "Elimina Scheda allegata"
+
+#~ msgid "Content.related_links"
+#~ msgstr "Link associati"
+
+#~ msgid "Link.url"
+#~ msgstr "Url"
+
+#~ msgid "Link.description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Link.date_ctrl"
+#~ msgstr "Data ultimo controllo"
+
+#~ msgid "Link.status"
+#~ msgstr "Status"
+
+#~ msgid "Link.content_related"
+#~ msgstr "Contenuto associato"
+
+#~ msgid "Verify URL"
+#~ msgstr "Controlla link"
+
+#~ msgid "Mailmessage.code"
+#~ msgstr "codifica"
+
+#~ msgid "Mailmessage.subject"
+#~ msgstr "Soggetto"
+
+#~ msgid "Mailmessage.body"
+#~ msgstr "Testo"
+
+#~ msgid "Add Link"
+#~ msgstr "Aggiungi link"
+
+#~ msgid "Link url field required"
+#~ msgstr "Campo url richiesto"
+
+#~ msgid "Delete Link"
+#~ msgstr "Elimina Link"
+
+#~ msgid "User.piva"
+#~ msgstr "Partita Iva"
+
+#~ msgid "User.cf"
+#~ msgstr "Codice Fiscale"
+
+#~ msgid "User.company_representative"
+#~ msgstr "Rappresentante Legale"
+
+#~ msgid "User.company_reference"
+#~ msgstr "Contatto di Riferimento"
+
+#~ msgid "User.date_of_birth"
+#~ msgstr "Data di Nascita"
+
+#~ msgid "User.sex"
+#~ msgstr "Sesso"
+
+#~ msgid "Attachfile.delete_file"
+#~ msgstr "Elimina"
+
+#~ msgid "Attachfile.file_name"
+#~ msgstr "Immagine Allegata"
+
+#~ msgid "User.richiesta"
+#~ msgstr "Richiesta"
+
+#~ msgid "Send"
+#~ msgstr "Invia"
+
+#~ msgid ""
+#~ "Torna alla home page Provera materiale edile, caminetti e stufe, arrede "
+#~ "bagno e piastrelle"
+#~ msgstr "Torna alla home page"
+
+#~ msgid "welcome"
+#~ msgstr "Benvenuto"
+
+#~ msgid "select products family"
+#~ msgstr "Select products line"
+
+#~ msgid "go to products"
+#~ msgstr "go to products"
+
+#, fuzzy
+#~ msgid "area riservata"
+#~ msgstr "La pagina di "
+
+#~ msgid "Menu.title.UserBackend"
+#~ msgstr "Gestione Utenti"
+
+#~ msgid "Menu.title.UserBackend.index"
+#~ msgstr "Amministratori"
+
+#~ msgid "Menu.page_title.UserBackend.index"
+#~ msgstr "Gestione Amministratori"
+
+#~ msgid "Menu.form_title.UserBackend.index"
+#~ msgstr " "
+
+#~ msgid "Menu.title.User.edit_profile"
+#~ msgstr "Modifica profilo"
+
+#~ msgid "Menu.page_title.User.edit_profile"
+#~ msgstr "Modifica profilo"
+
+#~ msgid "Menu.form_title.User.edit_profile"
+#~ msgstr "Modifica profilo"
+
+#~ msgid "Menu.title.UserFrontend.index"
+#~ msgstr "Utenti registrati"
+
+#~ msgid "Menu.page_title.UserFrontend.index"
+#~ msgstr "Gestione Utenti Pubblici"
+
+#~ msgid "Menu.title.User.export"
+#~ msgstr "Export Utenti"
+
+#~ msgid "Menu.page_title.User.export"
+#~ msgstr "Export dati utente"
+
+#~ msgid "Menu.title.Content.index"
+#~ msgstr "Contenuti"
+
+#~ msgid "Menu.page_title.Content.index"
+#~ msgstr "Elenco Prodotti"
+
+#~ msgid "Menu.title.ContentRichiediInformazioni.index"
+#~ msgstr "Richiedi Informazioni"
+
+#~ msgid "Menu.page_title.ContentRichiediInformazioni.index"
+#~ msgstr "Gestisci articoli RICHIEDI INFORMAZIONI"
+
+#~ msgid "Menu.form_title.ContentRichiediInformazioni.index"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia RICHIEDI "
+#~ "INFORMAZIONI e selezionare la categoria di appartenenza"
+
+#~ msgid "Menu.title.ContentSocieta.index"
+#~ msgstr "Società"
+
+#~ msgid "Menu.page_title.ContentSocieta.index"
+#~ msgstr "Gestisci articoli SOCIETA'"
+
+#~ msgid "Menu.form_title.ContentSocieta.index"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia SOCIETA' e "
+#~ "selezionare la categoria di appartenenza"
+
+#~ msgid "Menu.title.ContentAcquistaCasa.index"
+#~ msgstr "Acquista Casa"
+
+#~ msgid "Menu.page_title.ContentAcquistaCasa.index"
+#~ msgstr "Gestisci articoli ACQUISTA CASA"
+
+#~ msgid "Menu.form_title.ContentAcquistaCasa.index"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia ACQUISTA "
+#~ "CASA e selezionare la categoria di appartenenza"
+
+#~ msgid "Menu.title.ContentNotaioDigitale.index"
+#~ msgstr "Notaio Digitale"
+
+#~ msgid "Menu.page_title.ContentNotaioDigitale.index"
+#~ msgstr "Gestisci articoli NOTAIO DIGITALE"
+
+#~ msgid "Menu.form_title.ContentNotaioDigitale.index"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia NOTAIO "
+#~ "DIGITALE e selezionare la categoria di appartenenza"
+
+#~ msgid "Menu.title.ContentMutuo.index"
+#~ msgstr "Mutuo"
+
+#~ msgid "Menu.page_title.ContentMutuo.index"
+#~ msgstr "Gestisci articoli MUTUO"
+
+#~ msgid "Menu.form_title.ContentMutuo.index"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia MUTUO e "
+#~ "selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.ContentArticolo.index"
+#~ msgstr "Contenuti"
+
+#, fuzzy
+#~ msgid "Menu.page_title.ContentArticolo.index"
+#~ msgstr "Elenco Prodotti"
+
+#, fuzzy
+#~ msgid "Menu.form_title.ContentArticolo.index"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia MUTUO e "
+#~ "selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.ContentArticolo.edit"
+#~ msgstr "Modifica Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.page_title.ContentArticolo.edit"
+#~ msgstr "Modifica Prodotto"
+
+#~ msgid "Menu.page_title.Content.add"
+#~ msgstr "Aggiungi Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.add_richiedi_informazioni"
+#~ msgstr "Richiedi Informazioni"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.add_richiedi_informazioni"
+#~ msgstr "Gestisci articoli RICHIEDI INFORMAZIONI"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.add_richiedi_informazioni"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia RICHIEDI "
+#~ "INFORMAZIONI e selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.add_societa"
+#~ msgstr "Aggiungi Prodotto Caminetti e Stufe"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.add_societa"
+#~ msgstr "Aggiungi Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.add_societa"
+#~ msgstr "Aggiungi Prodotto Caminetti e Stufe"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.add_acquista_casa"
+#~ msgstr "Acquista Casa"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.add_acquista_casa"
+#~ msgstr "Gestisci articoli ACQUISTA CASA"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.add_acquista_casa"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia ACQUISTA "
+#~ "CASA e selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.add_notaio_digitale"
+#~ msgstr "Notaio Digitale"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.add_notaio_digitale"
+#~ msgstr "Gestisci articoli NOTAIO DIGITALE"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.add_notaio_digitale"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia NOTAIO "
+#~ "DIGITALE e selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.add_mutuo"
+#~ msgstr "Aggiungi Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.add_mutuo"
+#~ msgstr "Aggiungi Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.add_mutuo"
+#~ msgstr "Aggiungi Prodotto Caminetti e Stufe"
+
+#~ msgid "Menu.page_title.Content.edit"
+#~ msgstr "Modifica Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.edit_richiedi_informazioni"
+#~ msgstr "Richiedi Informazioni"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.edit_richiedi_informazioni"
+#~ msgstr "Gestisci articoli RICHIEDI INFORMAZIONI"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.edit_richiedi_informazioni"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia RICHIEDI "
+#~ "INFORMAZIONI e selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.edit_societa"
+#~ msgstr "Modifica Prodotto Caminetti e Stufe"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.edit_societa"
+#~ msgstr "Modifica Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.edit_societa"
+#~ msgstr "Modifica Prodotto Caminetti e Stufe"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.edit_acquista_casa"
+#~ msgstr "Acquista Casa"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.edit_acquista_casa"
+#~ msgstr "Modifica Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.edit_acquista_casa"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia ACQUISTA "
+#~ "CASA e selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.edit_notaio_digitale"
+#~ msgstr "Notaio Digitale"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.edit_notaio_digitale"
+#~ msgstr "Gestisci articoli NOTAIO DIGITALE"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.edit_notaio_digitale"
+#~ msgstr ""
+#~ "In questa pagina si possono aggiungere articoli alla Famiglia NOTAIO "
+#~ "DIGITALE e selezionare la categoria di appartenenza"
+
+#, fuzzy
+#~ msgid "Menu.title.Content.edit_mutuo"
+#~ msgstr "Modifica Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Content.edit_mutuo"
+#~ msgstr "Modifica Prodotto"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Content.edit_mutuo"
+#~ msgstr "Modifica Famiglia"
+
+#~ msgid "Menu.title.TableConfig"
+#~ msgstr "Configurazioni"
+
+#~ msgid "Menu.title.Mailmessage.index"
+#~ msgstr "Messaggi Automatici"
+
+#~ msgid "Menu.page_title.Mailmessage.index"
+#~ msgstr "Messaggi Automatici"
+
+#~ msgid "Menu.form_title.Mailmessage.index"
+#~ msgstr " "
+
+#~ msgid "Menu.page_title.Mailmessage.add"
+#~ msgstr "Aggiungi Messaggio Automatico"
+
+#~ msgid "Menu.form_title.Mailmessage.add"
+#~ msgstr " "
+
+#~ msgid "Menu.page_title.Mailmessage.edit"
+#~ msgstr "Modifica Messaggio Automatico"
+
+#~ msgid "Menu.form_title.Mailmessage.edit"
+#~ msgstr " "
+
+#~ msgid "Menu.title.Contentfamily.index"
+#~ msgstr "Famiglie Articoli"
+
+#~ msgid "Menu.page_title.Contentfamily.index"
+#~ msgstr "Elenco Famiglie Articoli"
+
+#~ msgid "Menu.form_title.Contentfamily.index"
+#~ msgstr ""
+#~ "In questa pagina si possono modificare i nomi delle famiglie, modificare "
+#~ "l'ordinamento e inserire le descrizioni delle famiglie."
+
+#~ msgid "Menu.page_title.Contentfamily.edit"
+#~ msgstr "Modifica Famiglia"
+
+#~ msgid "Menu.form_title.Contentfamily.edit"
+#~ msgstr "Modifica Famiglia"
+
+#~ msgid "Menu.title.Contentcategory.index"
+#~ msgstr "Categorie Articoli"
+
+#~ msgid "Menu.page_title.Contentcategory.index"
+#~ msgstr "Categorie Articoli"
+
+#~ msgid "Menu.form_title.Contentcategory.index"
+#~ msgstr "In questa pagina si possono creare e modificare le categorie"
+
+#~ msgid "Menu.page_title.Contentcategory.add"
+#~ msgstr "Aggiungi Categoria"
+
+#~ msgid "Menu.form_title.Contentcategory.add"
+#~ msgstr "Aggiungi Categoria"
+
+#~ msgid "Menu.page_title.Contentcategory.edit"
+#~ msgstr "Modifica Categoria"
+
+#~ msgid "Menu.form_title.Contentcategory.edit"
+#~ msgstr "Modifica Categoria"
+
+#~ msgid "Menu.page_title.Contentcategory.delete"
+#~ msgstr "Modifica Categoria"
+
+#~ msgid "title_for_layout_chi_siamo"
+#~ msgstr "title_for_layout_chi_siamo"
+
+#~ msgid "description_for_layout_chi_siamo"
+#~ msgstr "description_for_layout_chi_siamo"
+
+#~ msgid "keywords_for_layout_chi_siamo"
+#~ msgstr "keywords_for_layout_chi_siamo"
+
+#~ msgid "title_for_layout_mappa_sito"
+#~ msgstr "title_for_layout_mappa_sito"
+
+#~ msgid "description_for_layout_mappa_sito"
+#~ msgstr "description_for_layout_mappa_sito"
+
+#~ msgid "keywords_for_layout_mappa_sito"
+#~ msgstr "keywords_for_layout_mappa_sito"
+
+#~ msgid "title_for_layout_richiedi_catalogo"
+#~ msgstr "title_for_layout_richiedi_catalogo"
+
+#~ msgid "description_for_layout_richiedi_catalogo"
+#~ msgstr "description_for_layout_richiedi_catalogo"
+
+#~ msgid "keywords_for_layout_richiedi_catalogo"
+#~ msgstr ""
+#~ "catalogo italnolo, catalogo noleggio, noleggio, noleggio torino, noleggio "
+#~ "settimo, gazebi, sedie, tavoli, tagliaerba, decespugliatori, furgoni,"
+
+#~ msgid "titolo pagina registrazione"
+#~ msgstr ""
+#~ "Registrati e avrai l’accesso alle schede tecniche, di sicurezza e i "
+#~ "Certificati dei Prodotti."
+
+#~ msgid "title_for_layout_registrazione"
+#~ msgstr ""
+#~ "Registrati e avrai l’accesso alle schede tecniche, di sicurezza e i "
+#~ "Certificati dei Prodotti."
+
+#~ msgid "description_for_layout_registrazione"
+#~ msgstr ""
+#~ "Registrati e avrai l’accesso alle schede tecniche, di sicurezza e i "
+#~ "Certificati dei Prodotti."
+
+#~ msgid "keywords_for_layout_registrazione"
+#~ msgstr "keywords_for_layout_registrazione"
+
+#~ msgid "The User has been registered"
+#~ msgstr "Utente già registrato"
+
+#~ msgid "User.message"
+#~ msgstr "Messaggio"
+
+#~ msgid "richiesta catalogo inviata correttamente"
+#~ msgstr "Richiesta catalogo inviata correttamente"
+
+#~ msgid "Spedizioni in tutta Italia"
+#~ msgstr "Spedizioni in tutta Italia"
+
+#~ msgid "richiesta info spedizioni inviata correttamente"
+#~ msgstr "Richiesta info spedizioni inviata correttamente"
+
+#~ msgid "Menu.title.Content.add_materiale_edilizia"
+#~ msgstr "Aggiungi Prodotto Materiale per Edilizia"
+
+#~ msgid "Menu.page_title.Content.add_materiale_edilizia"
+#~ msgstr "Aggiungi Prodotto Materiale Edilizia"
+
+#~ msgid "Menu.form_title.Content.add_materiale_edilizia"
+#~ msgstr "Aggiungi Prodotto Materiale per Edilizia"
+
+#~ msgid "Menu.page_title.Content.add_caminetti_stufe"
+#~ msgstr "Aggiungi Prodotto Caminetti Stufe"
+
+#~ msgid "Menu.title.Content.add_arredo_bagno_piastrelle"
+#~ msgstr "Aggiungi Prodotto Arredo Bagno / Pastrelle"
+
+#~ msgid "Menu.page_title.Content.add_arredo_bagno_piastrelle"
+#~ msgstr "Aggiungi Prodotto Arredo Bagno Piastrelle"
+
+#~ msgid "Menu.form_title.Content.add_arredo_bagno_piastrelle"
+#~ msgstr "Aggiungi Prodotto Arredo Bagno / Pastrelle"
+
+#~ msgid "Menu.title.Content.edit_materiale_edilizia"
+#~ msgstr "Modifica Prodotto Materiale per Edilizia"
+
+#~ msgid "Menu.page_title.Content.edit_materiale_edilizia"
+#~ msgstr "Modifica Prodotto Materiale per Edilizia"
+
+#~ msgid "Menu.form_title.Content.edit_materiale_edilizia"
+#~ msgstr "Modifica Prodotto Materiale per Edilizia"
+
+#~ msgid "Menu.page_title.Content.edit_caminetti_stufe"
+#~ msgstr "Modifica Prodotto Caminetti Stufe"
+
+#~ msgid "Menu.page_title.Content.edit_arredo_bagno_piastrelle"
+#~ msgstr "Modifica Prodotto Arredo Bagno Piastrelle"
+
+#~ msgid "Menu.form_title.Content.edit_arredo_bagno_piastrelle"
+#~ msgstr "Modifica Prodotto Arredo Bagno / Piastrelle"
+
+#~ msgid "The News has been saved"
+#~ msgstr "La scheda novità è stata salvata"
+
+#~ msgid "Contentsubcategory.contentcategory_id"
+#~ msgstr "Categoria"
+
+#~ msgid "Contentsubcategory.name"
+#~ msgstr "Sottocategoria"
+
+#~ msgid "Contentsubcategory.description"
+#~ msgstr "Descrizione"
+
+#~ msgid "News.contentdate"
+#~ msgstr "Data News"
+
+#~ msgid "News.title"
+#~ msgstr "Titolo"
+
+#~ msgid "News.abstract"
+#~ msgstr "Riassunto"
+
+#~ msgid "News.content"
+#~ msgstr "Contenuto"
+
+#~ msgid "News.date_start"
+#~ msgstr "Data Inizio valiidtà"
+
+#~ msgid "News.date_end"
+#~ msgstr "Data Fine validità"
+
+#~ msgid "News.view_home"
+#~ msgstr "Visualizza in slider Home"
+
+#~ msgid "News.view_noleggio"
+#~ msgstr "Visualizza in slider Noleggio"
+
+#~ msgid "News.families"
+#~ msgstr "Visualizza in slider delle famiglie selezionate"
+
+#~ msgid "AttachfileSlide.delete_file"
+#~ msgstr "Elimina Immagine Slide Allegata"
+
+#~ msgid "AttachfileSlide.file_name"
+#~ msgstr "Immagine Slide Allegata"
+
+#~ msgid "Registrazione"
+#~ msgstr "Registrazione"
+
+#~ msgid "Menu.title.ContentMaterialeEdilizia.index"
+#~ msgstr "Materiale per l'edilizia"
+
+#~ msgid "Menu.page_title.ContentMaterialeEdilizia.index"
+#~ msgstr "Elenco Prodotti Materiale per Edilizia"
+
+#~ msgid "Menu.form_title.ContentMaterialeEdilizia.index"
+#~ msgstr "Elenco Prodotti Materiale per Edilizia"
+
+#~ msgid "Menu.title.ContentCaminettiStufe.index"
+#~ msgstr "Caminetti e stufe"
+
+#~ msgid "Menu.page_title.ContentCaminettiStufe.index"
+#~ msgstr "Elenco Prodotti Caminetti Stufe"
+
+#~ msgid "Menu.form_title.ContentCaminettiStufe.index"
+#~ msgstr "Elenco Prodotti Caminetti Stufe"
+
+#~ msgid "Menu.title.ContentArredoBagnoPiastrelle.index"
+#~ msgstr "Arredo bagno e piastrelle"
+
+#~ msgid "Menu.page_title.ContentArredoBagnoPiastrelle.index"
+#~ msgstr "Elenco Prodotti Arredo Bagno Piastrelle"
+
+#~ msgid "Menu.form_title.ContentArredoBagnoPiastrelle.index"
+#~ msgstr "Elenco Prodotti Arredo Bagno Piastrelle"
+
+#~ msgid "Menu.title.News"
+#~ msgstr "Gestione news"
+
+#~ msgid "Menu.page_title.News"
+#~ msgstr "Aggiungi News"
+
+#~ msgid "Menu.form_title.News"
+#~ msgstr "Elenco News"
+
+#~ msgid "Menu.title.News.index"
+#~ msgstr "News"
+
+#~ msgid "Menu.page_title.News.index"
+#~ msgstr "News"
+
+#~ msgid "Menu.form_title.News.index"
+#~ msgstr "Elenco News"
+
+#~ msgid "Menu.title.News.add"
+#~ msgstr "Aggiungi News"
+
+#~ msgid "Menu.page_title.News.add"
+#~ msgstr "Aggiungi News"
+
+#~ msgid "Menu.form_title.News.add"
+#~ msgstr "Aggiungi News"
+
+#~ msgid "Menu.title.News.edit"
+#~ msgstr "Modifica News"
+
+#~ msgid "Menu.page_title.News.edit"
+#~ msgstr "Modifica News"
+
+#~ msgid "Menu.form_title.News.edit"
+#~ msgstr "Modifica News"
+
+#~ msgid "Menu.title.Links"
+#~ msgstr "Gestione link"
+
+#~ msgid "Menu.page_title.Links"
+#~ msgstr "Gestione link"
+
+#~ msgid "Menu.form_title.Links"
+#~ msgstr "Elenco Link"
+
+#~ msgid "Menu.title.Links.index"
+#~ msgstr "Link"
+
+#~ msgid "Menu.page_title.Links.index"
+#~ msgstr "Elenco Link"
+
+#~ msgid "Menu.form_title.Links.index"
+#~ msgstr "Elenco Link"
+
+#~ msgid "Menu.title.Links.edit"
+#~ msgstr "Modifica Link"
+
+#~ msgid "Menu.page_title.Links.edit"
+#~ msgstr "Gestione link"
+
+#~ msgid "Menu.form_title.Links.edit"
+#~ msgstr "Gestione link"
+
+#~ msgid "Menu.title.Links.delete"
+#~ msgstr "Elimina link"
+
+#~ msgid "Menu.page_title.Links.delete"
+#~ msgstr "Elimina link"
+
+#~ msgid "Menu.form_title.Links.delete"
+#~ msgstr "Elimina link"
+
+#~ msgid "Menu.title.Contentsubcategory.index"
+#~ msgstr "Sottocategorie prodotti"
+
+#~ msgid "Menu.page_title.Contentsubcategory.index"
+#~ msgstr "Elenco Sottocategorie"
+
+#~ msgid "Menu.form_title.Contentsubcategory.index"
+#~ msgstr "Elenco Sottocategorie"
+
+#~ msgid "Menu.title.Contentsubcategory.add"
+#~ msgstr "Aggiungi Sottocategoria"
+
+#~ msgid "Menu.page_title.Contentsubcategory.add"
+#~ msgstr "Aggiungi Sottocategoria"
+
+#~ msgid "Menu.title.Contentsubcategory.edit"
+#~ msgstr "Modifica Sottocategoria"
+
+#~ msgid "Menu.page_title.Contentsubcategory.edit"
+#~ msgstr "Modifica Sottocategoria"
+
+#~ msgid "Menu.form_title.Contentsubcategory.edit"
+#~ msgstr "Modifica Sottocategoria"
+
+#~ msgid "title_for_layout_azienda"
+#~ msgstr "Materiale per la casa nasce a Torino nel lontano 1944"
+
+#~ msgid "description_for_layout_azienda"
+#~ msgstr ""
+#~ "L'obbietivo della Provera  è di cercare continuamente prodotti innovativi "
+#~ "e tecnologie all’avanguardia adatti a risolvere i problemi legati "
+#~ "all’edilizia"
+
+#~ msgid "keywords_for_layout_azienda"
+#~ msgstr "materiale edile, caminetti, stufe, arredo bagno, piastrelle, torino"
+
+#~ msgid "title_for_layout_noleggio"
+#~ msgstr ""
+#~ "Da noi puoi noleggiare dall’articolo per la casa ed il tempo libero "
+#~ "all’articolo professionale"
+
+#~ msgid "description_for_layout_noleggio"
+#~ msgstr ""
+#~ "Da noi puoi noleggiare dall’articolo per la casa ed il tempo libero "
+#~ "all’articolo professionale"
+
+#~ msgid "keywords_for_layout_noleggio"
+#~ msgstr ""
+#~ "noleggio giardinaggio,giardinaggio noleggio,ricevimenti noleggio,noleggio "
+#~ "ricevimenti,noleggio strumenti di misura,strumenti di misura a noleggio,"
+#~ "noleggio strumenti di indagine,strumenti di indagine a noleggio,articoli "
+#~ "a noleggio,trasporti noleggio,noleggio trasporti,articoli per trasporti a "
+#~ "noleggio,articoli per traslochi a noleggio,noleggio traslochi,traslochi "
+#~ "noleggio,elettroutensileria a noleggio,noleggio elettroutensileria,"
+#~ "articoli segnaletica a noleggio,noleggio articoli per segnaletica,"
+#~ "articoli cantieristica civile a noleggio,noleggio articoli cantieristica "
+#~ "civile,articoli cantieristica stradale a noleggio,noleggio articoli di "
+#~ "cantieristica stradale,noleggio generatori,generatori a noleggio,noleggio "
+#~ "motosaldatrici,motosaldatrici a noleggio,noleggio compressori,compressori "
+#~ "a noleggio,articoli per sollevamento a noleggio,noleggio articoli per "
+#~ "sollevamento,macchine per scavi a noleggio,noleggio macchine per scavi,"
+#~ "macchine per movimentazioni,noleggio macchinari,macchinari a noleggio,"
+#~ "noleggio articoli hi tech,articoli hi tech a noleggio"
+
+#~ msgid "title_for_layout_spedizioni_tutta_italia"
+#~ msgstr ""
+#~ "Spedizioni in tutta Italia, compila il modulo di richiesta informazioni, "
+#~ "riceverai nel più breve tempo possibile una risposta"
+
+#~ msgid "description_for_spedizioni_tutta_italia"
+#~ msgstr ""
+#~ "Provera  lancia un nuovo servizio ! Spedizioni in tutta Italia, compila "
+#~ "il modulo di richiesta informazioni, riceverai nel più breve tempo "
+#~ "possibile una risposta"
+
+#~ msgid "keywords_for_layout_spedizioni_tutta_italia"
+#~ msgstr ""
+#~ "spedizioni in tutta italia, edilizia, torino, piastrelle, ceramiche, "
+#~ "riscaldamento, stufe, camini, noleggio, attrezzature, ferramenta, "
+#~ "lucernari, isolanti acustici, tubi inox, tubi plastica, tetti, coperture"
+
+#~ msgid "Mail richiesta info spedizioni in Italia"
+#~ msgstr "Mail richiesta info spedizioni in Italia"
+
+#~ msgid "msg confirm registration ok"
+#~ msgstr "registrazione riuscita"
+
+#~ msgid "Content.contentsubcategory_id"
+#~ msgstr "Sottocategoria"
+
+#~ msgid "Invalid file type."
+#~ msgstr "Tipo di file non valido."
+
+#, fuzzy
+#~ msgid "Menu.title.Dashboard.index"
+#~ msgstr "Retedeldono"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Dashboard.index"
+#~ msgstr "Gestione Utenti Non Profit"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Dashboard.index"
+#~ msgstr " "
+
+#~ msgid "Menu.title.Dashboard.admin_index"
+#~ msgstr "Retedeldono"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Dashboard.admin_index"
+#~ msgstr "Gestione Utenti Non Profit"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Dashboard.admin_index"
+#~ msgstr " "
+
+#~ msgid "Projectcategory deleted"
+#~ msgstr "Nome Progetto"
+
+#, fuzzy
+#~ msgid "Project Initiative"
+#~ msgstr "Nuova Iniziativa"
+
+#~ msgid "Donation.donor_name"
+#~ msgstr "Nome e Cognome (oppure nikcname)*"
+
+#~ msgid "Donation.donor_message"
+#~ msgstr "Il tuo Messaggio"
+
+#~ msgid "Donation.donor_amount"
+#~ msgstr "La tua Donazione"
+
+#~ msgid "Dona ora"
+#~ msgstr "Dona Ora"
+
+#, fuzzy
+#~ msgid "Donation.id"
+#~ msgstr "Nome e Cognome (oppure nikcname)*"
+
+#, fuzzy
+#~ msgid "Donation.donor_ammount"
+#~ msgstr "La tua Donazione"
+
+#~ msgid "Initiative.project_id"
+#~ msgstr "Progetto"
+
+#~ msgid "Initiative.fundraiser_id"
+#~ msgstr "Network Leader"
+
+#~ msgid "Initiative.initiativestatus_id"
+#~ msgstr "Stato"
+
+#~ msgid "Initiative.initiativetheme_id"
+#~ msgstr "Thema"
+
+#~ msgid "Initiative.initiativetype_id"
+#~ msgstr "Tipologia"
+
+#~ msgid "Initiative.name"
+#~ msgstr "Titolo"
+
+#~ msgid "Initiative.description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Initiative.target_value"
+#~ msgstr "Obbiettivo dell'iniziativa"
+
+#~ msgid "Initiative.onlus_id"
+#~ msgstr "Non Profit"
+
+#~ msgid "Edit initiative"
+#~ msgstr "Modifica Iniziativa"
+
+#~ msgid "insert initiative"
+#~ msgstr "Nuova Iniziativa"
+
+#~ msgid "projects index"
+#~ msgstr "Cerca l’ONP che desideri sostenere"
+
+#~ msgid "Projects category"
+#~ msgstr "Categoria Progetto"
+
+#~ msgid "initiatives index"
+#~ msgstr "Cerca il tuo Amico"
+
+#~ msgid "Detail"
+#~ msgstr "Approfondisci"
+
+#~ msgid "Condividi"
+#~ msgstr "invita i tuoi amici a donare"
+
+#~ msgid "Find out more"
+#~ msgstr "Approfondisci"
+
+#~ msgid "Target"
+#~ msgstr "Obiettivo"
+
+#~ msgid "Raised"
+#~ msgstr "Raccolto"
+
+#~ msgid "Projectcategory.name"
+#~ msgstr "Categoria"
+
+#~ msgid "Projectcategory.description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Project.onlus_id"
+#~ msgstr "Non Profit"
+
+#~ msgid "Project.name"
+#~ msgstr "Nome Progetto"
+
+#~ msgid "Project.target_value"
+#~ msgstr "Target di raccolta"
+
+#~ msgid "index area riservata fundraiser"
+#~ msgstr "La pagina di "
+
+#~ msgid "iniziative attive"
+#~ msgstr "Iniziative attive"
+
+#~ msgid "Initiative.tot_raised"
+#~ msgstr "Raccolto"
+
+#~ msgid "Project.tot_raised"
+#~ msgstr "Totale Raccolto"
+
+#~ msgid "link.dashboard_fundraiser_colpo_occhio"
+#~ msgstr "Colpo d'occhio"
+
+#~ msgid "link.dashboard_fundraiser_initiative"
+#~ msgstr "Le mie Iniziative"
+
+#~ msgid "link.dashboard_fundraiser_profile"
+#~ msgstr "Dati personali"
+
+#~ msgid "link.dashboard_onlus_colpo_occhio"
+#~ msgstr "Colpo d'occhio"
+
+#~ msgid "link.dashboard_onlus_project"
+#~ msgstr "Progetti"
+
+#~ msgid "link.dashboard_onlus_profile"
+#~ msgstr "Dati personali"
+
+#~ msgid "link.register"
+#~ msgstr "Iscriviti"
+
+#~ msgid "link.admin.dasboard"
+#~ msgstr "Admin"
+
+#, fuzzy
+#~ msgid "link.user.dasboard"
+#~ msgstr "La mia Pagina"
+
+#~ msgid "link_principali.rete_del_dono"
+#~ msgstr "Retedeldono"
+
+#~ msgid "link_principali.come_funziona"
+#~ msgstr "Come funziona"
+
+#~ msgid "link_principali.donatori"
+#~ msgstr "Per i Network Leader"
+
+#~ msgid "link_principali.onlus"
+#~ msgstr "Per le Non Profit"
+
+#, fuzzy
+#~ msgid "link_principali.news"
+#~ msgstr "Per le Non Profit"
+
+#, fuzzy
+#~ msgid "news index"
+#~ msgstr "Cerca l’ONP che desideri sostenere"
+
+#~ msgid "index register"
+#~ msgstr "Sono un nuovo utente"
+
+#~ msgid "Menu.title.Dashboard.onlus_project"
+#~ msgstr "Progetti"
+
+#~ msgid "Menu.page_title.Dashboard.onlus_project"
+#~ msgstr "Modifica Utente Non Profit"
+
+#~ msgid "Menu.form_title.Dashboard.onlus_project"
+#~ msgstr " "
+
+#~ msgid "Menu.title.Dashboard.onlus_profile"
+#~ msgstr "Non Profit"
+
+#~ msgid "Menu.page_title.Dashboard.onlus_profile"
+#~ msgstr "Gestione Utenti Non Profit"
+
+#~ msgid "Menu.form_title.Dashboard.onlus_profile"
+#~ msgstr " "
+
+#~ msgid "Menu.title.Dashboard.onlus_change_password"
+#~ msgstr "Cambio Password"
+
+#~ msgid "Menu.page_title.Dashboard.onlus_change_password"
+#~ msgstr "Cambio Password"
+
+#~ msgid "Menu.form_title.Dashboard.onlus_change_password"
+#~ msgstr " "
+
+#~ msgid "Menu.title.Dashboard.fundraiser_initiative"
+#~ msgstr "Network Leader"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Dashboard.fundraiser_initiative"
+#~ msgstr "Gestione Network Leader"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Dashboard.fundraiser_initiative"
+#~ msgstr " "
+
+#, fuzzy
+#~ msgid "Menu.title.Dashboard.fundraiser_change_password"
+#~ msgstr "Cambio Password"
+
+#, fuzzy
+#~ msgid "Menu.page_title.Dashboard.fundraiser_change_password"
+#~ msgstr "Cambio Password"
+
+#, fuzzy
+#~ msgid "Menu.form_title.Dashboard.fundraiser_change_password"
+#~ msgstr " "
+
+#~ msgid "Menu.title.UserFundraiser.index"
+#~ msgstr "Network Leader"
+
+#~ msgid "Menu.page_title.UserFundraiser.index"
+#~ msgstr "Gestione Network Leader"
+
+#~ msgid "Menu.form_title.UserFundraiser.index"
+#~ msgstr " "
+
+#~ msgid "Menu.title.UserBackend.add"
+#~ msgstr "Admin"
+
+#~ msgid "Menu.page_title.UserBackend.add"
+#~ msgstr "Aggiungi Amministratore"
+
+#~ msgid "Menu.form_title.UserBackend.add"
+#~ msgstr " "
+
+#~ msgid "Menu.form_title.UserOnlus.add"
+#~ msgstr " "
+
+#~ msgid "Menu.form_title.UserFundraiser.add"
+#~ msgstr " "
+
+#~ msgid "Menu.page_title.UserFundraiser.edit"
+#~ msgstr "Modifica Network Leader"
+
+#~ msgid "Menu.form_title.UserFundraiser.edit"
+#~ msgstr " "
+
+#~ msgid "Menu.title.UserData"
+#~ msgstr "Progetti e Iniziative"
+
+#~ msgid "Menu.form_title.UserData"
+#~ msgstr " "
+
+#, fuzzy
+#~ msgid "Case Id"
+#~ msgstr "Raccolto"
+
+#~ msgid "link.chi_siamo"
+#~ msgstr "Chi siamo"
+
+#~ msgid "link.fundraiser.dasboard"
+#~ msgstr "La mia Pagina"
+
+#~ msgid "top page"
+#~ msgstr "Inizio pagina"
+
+#~ msgid "blocchetto.termini_condizioni"
+#~ msgstr "Termini e condizioni"
+
+#~ msgid "Termini e condizioni"
+#~ msgstr "Termini e condizioni"
+
+#~ msgid "blocchetto.onlus"
+#~ msgstr "Per le Non Profit"
+
+#~ msgid "link.register_onlus"
+#~ msgstr "Non Profit"
+
+#~ msgid "link.register_fundraiser_privato"
+#~ msgstr "Privato"
+
+#~ msgid "link.register_fundraiser_azienda"
+#~ msgstr "Azienda"
+
+#~ msgid "utente fundraiser privato registrato correttamente"
+#~ msgstr "Utente Registrato correttamente"
+
+#~ msgid "utente fundraiser azienda registrato correttamente"
+#~ msgstr "Utente Registrato correttamente"

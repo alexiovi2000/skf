@@ -1,0 +1,9 @@
+LaunchURL=http\://server/folder
+Save\ Mode=ON_SAVE
+SelectedHostGUID=148680c0-a429-4575-b2c5-6bec192fcef4
+UploadFolder=public/www/actselector/app
+eclipse.preferences.version=1
+exclusionPatterns=
+inclusionPatterns=
+isLocalProjectEnabled=false
+isRemoteProjectEnabled=true
